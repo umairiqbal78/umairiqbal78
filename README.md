@@ -17,14 +17,14 @@ Currently building the mobile app for **Darent**, a licensed vacation-rental pla
 
 ### 🚀 Things I've built and shipped
 
-**[Squarely](https://play.google.com/store/apps/details?id=com.habitcraft.squarely)** — a social personal finance app for splitting and tracking shared budgets with friends. My own product, idea to Play Store, published under my own developer account.
-
-**[Iconspire](https://iconspire.habitscraft.com/)** — an AI app-icon generation tool, built and shipped as a live web product.
-
 **[Darent](https://apps.apple.com/us/app/darent-%D8%AF%D8%A7%D8%B1%D9%8A%D9%86%D8%AA/id1661536049)** — sole mobile developer (iOS & Android) at Meezotech. Migrated the payment flow from a webview to a native HyperPay SDK integration and added Tamara (buy-now-pay-later) as a payment option. I took crash-free sessions from under 70% to over 98%.
 
 
 **[LinkedUnion](https://apps.apple.com/us/app/linkedunion/id1274702587)** — a white-label platform I helped build at Avialdo Solutions, powering 400+ branded union apps from a single Flutter codebase, including **[Ironworkers Local 7](https://apps.apple.com/us/app/ironworkers-local-7/id1577941745)**. Designed CI/CD pipelines (Fastlane, GitHub Actions) that cut manual app-onboarding work by ~80%.
+
+**[Squarely](https://play.google.com/store/apps/details?id=com.habitcraft.squarely)** — a social personal finance app for splitting and tracking shared budgets with friends. My own product, idea to Play Store, published under my own developer account.
+
+**[Iconspire](https://iconspire.habitscraft.com/)** — an AI app-icon generation tool, built and shipped as a live web product.
 
 **Freelance:** [StoryMii](https://apps.apple.com/ca/app/story-mii/id6476496606) — implemented backend APIs and API integrations for a custom bedtime-story app.
 
