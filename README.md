@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Umair Iqbal 👋</h1>
-<h3 align="center">Flutter Engineer — Production Mobile Apps for 400+ Brands</h3>
+<h3 align="center">Flutter Engineer — Architected & deployed a white-label platform supporting 400+ distinct brands.</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
